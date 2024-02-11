@@ -1,5 +1,5 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
-<h1 align="center">Hi 👋, I'm Shaik Azeem</h1>
+<h1 align="center">Hi 👋, I'm Azeem Abdul Shaik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shaikalazeem4" target="blank"><img src="https://img.shields.io/twitter/follow/shaikalazeem4?logo=twitter&style=for-the-badge" alt="shaikalazeem4" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, open-cv, Data Science, Web Designing.**
+- 🌱 I am currently learning Cloud MS-Azure and have good knowledge of Machine Learning, Deep Learning, OpenCV, Data Science, and Web Designing technologies.**
 
-- 💬 Ask me about **Data Science, Android**
+- 💬 Ask me about **Cloud,Data Science.**
 
 - 📫 How to reach me **shaikabdulazeem548@gmail.com**
 
