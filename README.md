@@ -1,6 +1,6 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Azeem Abdul Shaik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A CS enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeem548&label=Profile%20views&color=0e75b6&style=flat" alt="azeem548" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I am currently learning Cloud MS-Azure and have good knowledge of Machine Learning, Deep Learning, OpenCV, Data Science, and Web Designing technologies.**
 
-- 💬 Ask me about **Cloud,Data Science.**
+- 💬 Ask me about ** Cloud,Data Science.**
 
 - 📫 How to reach me **shaikabdulazeem548@gmail.com**
 
